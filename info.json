@@ -1,0 +1,140 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://hmcl.huangyuhui.net/",
+            "path": "index.html",
+            "saved": true,
+            "size": 10705,
+            "children": [
+                {
+                    "url": "https://hmcl.huangyuhui.net/assets/img/main_page.png",
+                    "path": "img/main_page.png",
+                    "saved": true,
+                    "size": 608473
+                },
+                {
+                    "url": "https://hmcl.huangyuhui.net/assets/img/installer_page.png",
+                    "path": "img/installer_page.png",
+                    "saved": true,
+                    "size": 114907
+                },
+                {
+                    "url": "https://hmcl.huangyuhui.net/assets/img/purple_page.png",
+                    "path": "img/purple_page.png",
+                    "saved": true,
+                    "size": 160527
+                },
+                {
+                    "url": "https://img.shields.io/github/issues/huanghongxun/HMCL?style=for-the-badge",
+                    "path": "img/HMCL.svg",
+                    "saved": true,
+                    "size": 661
+                },
+                {
+                    "url": "https://img.shields.io/github/forks/huanghongxun/HMCL?style=for-the-badge",
+                    "path": "img/HMCL_1.svg",
+                    "saved": true,
+                    "size": 870
+                },
+                {
+                    "url": "https://img.shields.io/github/stars/huanghongxun/HMCL?style=for-the-badge",
+                    "path": "img/HMCL_2.svg",
+                    "saved": true,
+                    "size": 863
+                },
+                {
+                    "url": "https://www.huangyuhui.net/ghs.png",
+                    "path": "img/ghs.png",
+                    "saved": true,
+                    "size": 19256
+                },
+                {
+                    "url": "https://hmcl.huangyuhui.net/assets/js/main.min.js",
+                    "path": "js/main.min.js",
+                    "saved": true,
+                    "size": 122324
+                },
+                {
+                    "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://hmcl.huangyuhui.net/assets/css/main.css",
+                    "path": "css/main.css",
+                    "saved": true,
+                    "size": 90633
+                },
+                {
+                    "url": "https://hmcl.huangyuhui.net/assets/css/common.css",
+                    "path": "css/common.css",
+                    "saved": true,
+                    "size": 8786
+                },
+                {
+                    "url": "https://hmcl.huangyuhui.net/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 4286
+                },
+                {
+                    "url": "https://afdian.net/leaflet?slug=huanghongxun",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "hmcl-huangyuhui-net-fdqadbmw",
+    "info": {
+        "remark": [],
+        "title": "Hello Minecraft! Launcher",
+        "domain": "hmcl.huangyuhui.net",
+        "origin": "https://hmcl.huangyuhui.net",
+        "ip": "1.117.239.163",
+        "main": "index.html",
+        "url": "https://hmcl.huangyuhui.net/",
+        "totalSize": "1.14 MB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://hmcl.huangyuhui.net/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://hmcl.huangyuhui.net/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx/1.18.0 (Ubuntu)",
+                "date": "Sat, 04 Feb 2023 13:17:38 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "last-modified": "Sun, 06 Nov 2022 18:01:05 GMT"
+            }
+        },
+        "time": {
+            "start": "2023-02-04T13:17:37.868Z",
+            "end": "2023-02-04T13:17:42.957Z"
+        }
+    },
+    "options": {
+        "url": "https://hmcl.huangyuhui.net/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
