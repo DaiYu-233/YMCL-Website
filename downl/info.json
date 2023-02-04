@@ -1,0 +1,126 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://hmcl.huangyuhui.net/download",
+            "path": "index.html",
+            "saved": true,
+            "size": 15778,
+            "children": [
+                {
+                    "url": "https://hmcl.huangyuhui.net/assets/img/windows-logo.png",
+                    "path": "img/windows-logo.png",
+                    "saved": true,
+                    "size": 18927
+                },
+                {
+                    "url": "https://hmcl.huangyuhui.net/assets/img/linux-logo.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://hmcl.huangyuhui.net/assets/img/apple-logo.svg",
+                    "saved": false
+                },
+                {
+                    "url": "https://hmcl.huangyuhui.net/assets/img/download.svg",
+                    "path": "img/download.svg",
+                    "saved": true,
+                    "size": 205
+                },
+                {
+                    "url": "https://hmcl.huangyuhui.net/assets/img/download-black.svg",
+                    "path": "img/download-black.svg",
+                    "saved": true,
+                    "size": 205
+                },
+                {
+                    "url": "https://www.huangyuhui.net/ghs.png",
+                    "path": "img/ghs.png",
+                    "saved": true,
+                    "size": 19256
+                },
+                {
+                    "url": "https://hmcl.huangyuhui.net/assets/js/main.min.js",
+                    "path": "js/main.min.js",
+                    "saved": true,
+                    "size": 122324
+                },
+                {
+                    "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://hmcl.huangyuhui.net/assets/css/main.css",
+                    "path": "css/main.css",
+                    "saved": true,
+                    "size": 90633
+                },
+                {
+                    "url": "https://hmcl.huangyuhui.net/assets/css/common.css",
+                    "path": "css/common.css",
+                    "saved": true,
+                    "size": 8786
+                },
+                {
+                    "url": "https://hmcl.huangyuhui.net/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 4286
+                }
+            ]
+        }
+    ],
+    "alias": "hmcl-huangyuhui-net-3gzyxie",
+    "info": {
+        "remark": [],
+        "title": "下载 - Hello Minecraft! Launcher",
+        "domain": "hmcl.huangyuhui.net",
+        "origin": "https://hmcl.huangyuhui.net",
+        "ip": "1.117.239.163",
+        "main": "index.html",
+        "url": "https://hmcl.huangyuhui.net/download",
+        "totalSize": "280 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://hmcl.huangyuhui.net/download",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://hmcl.huangyuhui.net/download",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx/1.18.0 (Ubuntu)",
+                "date": "Sat, 04 Feb 2023 13:19:36 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "last-modified": "Sun, 06 Nov 2022 18:01:05 GMT"
+            }
+        },
+        "time": {
+            "start": "2023-02-04T13:19:35.657Z",
+            "end": "2023-02-04T13:19:38.815Z"
+        }
+    },
+    "options": {
+        "url": "https://hmcl.huangyuhui.net/download",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
